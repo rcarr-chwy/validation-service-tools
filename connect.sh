@@ -1,0 +1,1 @@
+docker exec -it validation-service-tools_umberdev_1 /bin/bash
