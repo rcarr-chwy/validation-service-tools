@@ -16,7 +16,3 @@ If you just want to start the service with minimal fuss, do the following:
 Once the service is up and running, connect to the container using:
 `connect.sh`
 
-## Scripts
-
-- **universe_check.py** See if a vet is in our universe
-` python universe_check.py -i <medpro id>`
